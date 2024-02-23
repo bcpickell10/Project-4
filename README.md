@@ -1,5 +1,9 @@
 # Project-4
 Used to re-create DS-3850 python coding projects using AI (ChatGPT 3.5)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66ca1b865adae591de780b48b4b3a8fe0d0ffb35
 def mad_lib():
     # Prompting user for inputs
     adjective = input("Enter an adjective: ")
@@ -16,5 +20,11 @@ def mad_lib():
     # Displaying the completed MadLib story
     print("\nHere's your MadLib story:\n")
     print(story)
+<<<<<<< HEAD
     # Running the MadLib game
     mad_lib()
+=======
+
+# Running the MadLib game
+mad_lib()
+>>>>>>> 66ca1b865adae591de780b48b4b3a8fe0d0ffb35
